@@ -1,0 +1,15 @@
+{
+  "name": "aquaguard-water-tanker-scheduler",
+  "version": "1.0.0",
+  "description": "Water Tanker Distribution Scheduler for Drought-Hit Areas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.14.0",
+    "xlsx": "^0.18.5"
+  }
+}
